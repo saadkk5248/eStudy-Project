@@ -18,7 +18,8 @@ export function HomeSection() {
             explore a vast library of courses, from academic sunject to
             practical skills, all designed to help you to achieve your goals.
             eStudy is your gateway to the world of limitless of learning
-            possibilities. With our
+            possibilities. With our Thats why it is imoportand in current
+            enviroment such as
           </p>
           <Link to="/contact" spy={true} smooth={true} duration={500}>
             <Button title="Contact Us" />
